@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+  title = 'Switchboard';
+  switches = [false, false, false, false, false, false, false, false]
+  onSwitch(idx) {
+    this.switches[idx] = !this.switches[idx]
+  }
 }

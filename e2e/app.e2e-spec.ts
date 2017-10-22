@@ -1,10 +1,10 @@
-import { AppPage } from './app.po';
+import { SwitchboardPage } from './app.po';
 
 describe('switchboard App', () => {
-  let page: AppPage;
+  let page: SwitchboardPage;
 
   beforeEach(() => {
-    page = new AppPage();
+    page = new SwitchboardPage();
   });
 
   it('should display welcome message', () => {

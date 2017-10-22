@@ -1,0 +1,52 @@
+* {
+    
+}
+
+h1 {
+    font-weight: bold;
+	font-family: ABeeZee;
+	font-size: 4.8em;
+    position: relative;
+    bottom: 30px;
+	top: 30px;
+}
+h2{
+	font-weight: bold;
+	font-family: ABeeZee;
+	font-size: 1.6em;
+	top: 30px;
+	
+}
+
+button {
+	width: 60px;
+	height: 50px;
+	background-color:red;
+	box-shadow: 5px 5px 5px black;
+	border: 3px solid black;
+	color: #fff;
+	margin: 20px auto 20px auto;
+	font-size:16px;
+	font-weight:bold;
+    display: inline;	
+}
+
+
+button.on {
+    background-color: green;
+    color: #fff;
+   
+}
+
+.wrapper {
+    margin: 10px;
+    padding: 10px;
+}
+
+.switches {
+	width: 100px;
+	height: 90px;
+    background: saddlebrown;
+    display: inline-block;
+	border: 2px solid black;
+}
