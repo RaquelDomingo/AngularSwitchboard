@@ -1,3 +1,6 @@
+<img width="867" alt="switchboard" src="https://user-images.githubusercontent.com/29441324/31867136-d079a5e0-b73e-11e7-9b2e-b17329d7ac6e.png">
+
+
 # Switchboard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
